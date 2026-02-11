@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sama salahat</h1>
 <h3 align="center">A passionate frontend developer from Palestine</h3>
 # 💫 About Me:
+
 - 🔭 I’m currently working on Web Development Projects using React & Node.js<br>- 👯 I’m looking to collaborate on Frontend and Full Stack Open Source Projects<br>- 🤝 I’m looking for help with Advanced Backend Architecture & Performance Optimization<br>- 🌱 I’m currently learning Advanced JavaScript, React, Node.js, and System Design<br>- 💬 Ask me about JavaScript, React, Web Development, UI/UX Design<br>- ⚡ Fun fact: I love turning ideas into real web applications 🚀<br>
 
 
